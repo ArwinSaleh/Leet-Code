@@ -1,4 +1,3 @@
-package medium_problems.lca_binary_search_tree;
 class Main {
     public static void main(String[] args) {
         Solution testSolution = new Solution();
